@@ -27,7 +27,7 @@ function App() {
       <ul>
         <li>
           <a href="index.html" className="active">
-            Home
+            {/* Home */}
           </a>
         </li>
         {/* <li class="dropdown">
